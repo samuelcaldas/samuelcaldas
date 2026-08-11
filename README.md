@@ -27,8 +27,8 @@ Trabalho com suporte técnico e DevOps na administração pública, cuidando de 
 ## GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelcaldas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8&hide_border=true" alt="Estatísticas GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcaldas&layout=compact&langs_count=8&theme=tokyonight&border_radius=8&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samuelcaldas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8&hide_border=true" alt="Estatísticas GitHub" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samuelcaldas&layout=compact&langs_count=8&theme=tokyonight&border_radius=8&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
