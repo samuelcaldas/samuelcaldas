@@ -36,7 +36,7 @@ Trabalho com suporte técnico e DevOps na administração pública, cuidando de 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelcaldas&theme=tokyo-night&bg_color=transparent&hide_border=true" width="100%" alt="Atividade GitHub" />
+  <a href="https://github.com/samuelcaldas?tab=overview">Contribuições e atividade no GitHub</a>
 </div>
 
 ---
